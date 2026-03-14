@@ -72,7 +72,7 @@ ollama pull nomic-embed-text
 ### 1. Clone & configure
 
 ```powershell
-git clone https://github.com/ghildiyalabhijeet/repo-assistant.git
+git clone https://github.com/AakashKTo/RepoAssistant.git
 cd repo-assistant
 ```
 
