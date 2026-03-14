@@ -1,0 +1,27 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# venv
+.venv/
+venv/
+
+# local data (DO NOT COMMIT)
+data/
+
+# editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Agents & Workflows
+tasks/
+test_*.py
+profiler.py
+prototype_*.py
