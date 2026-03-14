@@ -73,7 +73,7 @@ ollama pull nomic-embed-text
 
 ```powershell
 git clone https://github.com/AakashKTo/RepoAssistant.git
-cd repo-assistant
+cd repoAssistant
 ```
 
 Copy and edit the environment file (optional — defaults work for local dev):
